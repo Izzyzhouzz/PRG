@@ -1,5 +1,5 @@
 # Week 1: What is AI?
-##  Learning Objectives
+##  Learning Objectives 
 - Reflect on personal experience with AI 
 - Gain familiarity with AI tools through hands on experience
 - Identify dilemmas around AI technologies in school settings
